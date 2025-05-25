@@ -1,7 +1,14 @@
 # Operation_Shadow_control_Writeups
 ___
 ##### Flags found:
->
+```
+PClub{idk_how_this_got_typed}
+PClub{Franklin_Reiter_is_cool}
+PClub{Nice_job_reversing}
+PClub{Easy LFI} 
+PClub{y0u_ar3_in_7he_sudoers_file_1nc1d3nt_will_n0t_be_rep0r7ed}
+PClub{4lw4ys_cl05e_y0ur_fil3s}
+```
 ___
 
 
